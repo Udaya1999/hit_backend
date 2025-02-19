@@ -1,0 +1,197 @@
+{
+  "batches": [
+    {
+      "id": "3",
+      "course": "Pyspark",
+      "date": "2024-03-27",
+      "timing": "3PM - 4PM",
+      "trainer": "Naveen ",
+      "duration": "79"
+    },
+    {
+      "course": "JavaScript",
+      "date": "2024-05-31",
+      "duration": "30",
+      "timing": "12PM to 1PM",
+      "trainer": "nikhil",
+      "id": "4"
+    },
+    { 
+      "id": "5",
+      "course": "JavaScript",
+      "date": "2024-05-23",
+      "timing": "5Pm to 7PM",
+      "trainer": "Shareef",
+      "duration": "40"
+    },
+    {
+      "course": "java",
+      "date": "2024-05-30",
+      "duration": "100",
+      "timing": "12PM to 1PM",
+      "trainer": "uday",
+      "id": "6"
+    },
+    {
+      "course": "Pyspark",
+      "date": "2024-05-31",
+      "duration": "40",
+      "timing": "3PM - 4PM",
+      "trainer": "Shareef",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "course": "React.js",
+      "date": "2024-06-20",
+      "timing": "3PM - 4PM",
+      "trainer": "shiva",
+      "duration": "100"
+    },
+    {
+      "id": "9",
+      "course": "mongoDb",
+      "date": "2024-06-11",
+      "timing": "12PM to 1PM",
+      "trainer": "ramu",
+      "duration": "70"
+    },
+    {
+      "id": "e126",
+      "course": "pyspark",
+      "date": "2024-12-20",
+      "timing": "4pm-5pm",
+      "trainer": "naveen",
+      "duration": "30"
+    },
+    {
+      "id": "27b6",
+      "course": "django",
+      "date": "2024-12-11",
+      "timing": "4pm-5pm",
+      "trainer": "Bhaskar",
+      "duration": "30"
+    },
+    {
+      "id": "d6b5"
+    }
+  ],
+  "enquiries": [
+    {
+      "name": "kalki ",
+      "email": "kalki@gmail.com",
+      "phone": "8184919984",
+      "subject": "react js ",
+      "message": "i need to upskill on this techonology ..... ",
+      "id": "4"
+    },
+    {
+      "id": "4b34",
+      "name": "uday",
+      "email": "uday@gmail.com",
+      "phone": "8184919984",
+      "subject": "React.js",
+      "message": "i need to up skill on reactjs "
+    },
+    {
+      "id": "2b99",
+      "name": "prem",
+      "email": "prem@gmail.com",
+      "phone": "1284659274",
+      "subject": "node js",
+      "message": "upskill"
+    }
+  ],
+  "courses": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCX8Te4g44b9u8JR5X4KUqpDwUWkwgqFcA0Q&s",
+      "courseName": "Python Fullstack",
+      "description": "pthon",
+      "trainer": "uday",
+      "id": "1"
+    },
+    {
+      "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221219162542/Become-UI-Designer-in-2023.png",
+      "courseName": "UI Developer",
+      "description": "ui developer",
+      "trainer": "jalil6",
+      "id": "4"
+    },
+    {
+      "id": "91d5",
+      "image": "https://tse3.mm.bing.net/th?id=OIP._TZWHR517UvzEDYz6eTKoAHaDe&pid=Api&P=0&h=180",
+      "courseName": "Java Fullstack",
+      "description": "",
+      "trainer": "raju"
+    },
+    {
+      "id": "5a03",
+      "image": "https://www.elearninfotech.com/img/courses/python%20(2).jpg",
+      "courseName": "UI / UX Designer",
+      "description": "",
+      "trainer": "kamal"
+    },
+    {
+      "id": "f2c4",
+      "image": "https://www.elearninfotech.com/img/courses/javatraining.jpg",
+      "courseName": "JAVA",
+      "description": "",
+      "trainer": "narendra"
+    },
+    {
+      "id": "1179",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.qyHgF2j7tmHsEF3u3qL_KwHaDJ&pid=Api&P=0&h=180",
+      "courseName": "Web Development",
+      "description": "",
+      "trainer": "uday"
+    },
+    {
+      "id": "a2d2",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.FiIduLgaAGVKIVZjLzQxlwHaEK&pid=Api&P=0&h=180",
+      "courseName": "Node Js",
+      "description": "",
+      "trainer": "uday"
+    },
+    {
+      "id": "1599",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.FiIduLgaAGVKIVZjLzQxlwHaEK&pid=Api&P=0&h=180",
+      "courseName": "Python",
+      "description": "",
+      "trainer": "Shareef"
+    },
+    {
+      "id": "f00d",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.UppfNalWyR74snlWHWMWfQHaE6&pid=Api&P=0&h=180",
+      "courseName": "Graphic Designer",
+      "description": "",
+      "trainer": "uday"
+    },
+    {
+      "id": "4610",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.YHNT02OtDvcsgCqm6D6d_wHaEH&pid=Api&P=0&h=180",
+      "courseName": "Google Adword",
+      "description": "",
+      "trainer": "nikhil"
+    },
+    {
+      "id": "70ed",
+      "image": "https://tse3.mm.bing.net/th?id=OIP.0u1YhtFVVQ3OgX1X5XZI4gHaEK&pid=Api&P=0&h=180",
+      "courseName": "SEO",
+      "description": "",
+      "trainer": "kamal"
+    },
+    {
+      "id": "7a58",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.VmFX-LCavgdd_XNRsSARBgHaEK&pid=Api&P=0&h=180",
+      "courseName": "mongodb",
+      "description": "",
+      "trainer": "uday"
+    }
+  ],
+  "news": [
+    {
+      "id": "a34f",
+      "News": "| React.js New batch starts from next week 🔥🔥🔥🔥 | "
+    }
+  ]
+}
